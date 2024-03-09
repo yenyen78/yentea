@@ -1,0 +1,19 @@
+{
+  "name": "yentea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenyen78/yentea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenyen78/yentea/issues"
+  },
+  "homepage": "https://github.com/yenyen78/yentea#readme"
+}
